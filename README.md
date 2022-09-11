@@ -12,4 +12,4 @@ Pull requestler kabul edilir.
 ## License
 [MIT](https://github.com/sinanokan/kodluyoruzilkrepo/blob/main/LICENSE)
 ## Ilk Ekran Goruntusu
-![repo](C:\Users\okany\kodluyoruzilkrepo\Ekran Görüntüsü (2).png)
+![repo]()
